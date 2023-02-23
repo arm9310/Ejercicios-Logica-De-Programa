@@ -1,0 +1,23 @@
+Solicitar por prompt el primer número y guardar en la variable "num1"
+Solicitar por prompt el segundo número y guardar en la variable "num2"
+Solicitar por prompt el tercer número y guardar en la variable "num3"
+Si "num1" es mayor que "num2" y "num2" es mayor que "num3":
+Mostrar por consola o DOM los números ordenados de mayor a menor: "num1", "num2", "num3"
+Mostrar por consola o DOM los números ordenados de menor a mayor: "num3", "num2", "num1"
+Si "num1" es mayor que "num3" y "num3" es mayor que "num2":
+Mostrar por consola o DOM los números ordenados de mayor a menor: "num1", "num3", "num2"
+Mostrar por consola o DOM los números ordenados de menor a mayor: "num2", "num3", "num1"
+Si "num2" es mayor que "num1" y "num1" es mayor que "num3":
+Mostrar por consola o DOM los números ordenados de mayor a menor: "num2", "num1", "num3"
+Mostrar por consola o DOM los números ordenados de menor a mayor: "num3", "num1", "num2"
+Si "num2" es mayor que "num3" y "num3" es mayor que "num1":
+Mostrar por consola o DOM los números ordenados de mayor a menor: "num2", "num3", "num1"
+Mostrar por consola o DOM los números ordenados de menor a mayor: "num1", "num3", "num2"
+Si "num3" es mayor que "num1" y "num1" es mayor que "num2":
+Mostrar por consola o DOM los números ordenados de mayor a menor: "num3", "num1", "num2"
+Mostrar por consola o DOM los números ordenados de menor a mayor: "num2", "num1", "num3"
+Si "num3" es mayor que "num2" y "num2" es mayor que "num1":
+Mostrar por consola o DOM los números ordenados de mayor a menor: "num3", "num2", "num1"
+Mostrar por consola o DOM los números ordenados de menor a mayor: "num1", "num2", "num3"
+Si "num1" es igual a "num2" y "num2" es igual a "num3":
+Mostrar un mensaje por consola o DOM indicando que los números son iguales
